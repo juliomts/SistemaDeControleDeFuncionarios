@@ -1,0 +1,13 @@
+C:\Users\julio\source\repos\SistemaDeCadastro\SistemaDeCadastro\bin\Debug\SistemaDeCadastro.exe.config
+C:\Users\julio\source\repos\SistemaDeCadastro\SistemaDeCadastro\bin\Debug\SistemaDeCadastro.exe
+C:\Users\julio\source\repos\SistemaDeCadastro\SistemaDeCadastro\bin\Debug\SistemaDeCadastro.pdb
+C:\Users\julio\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.Apresentação.BemVindo.resources
+C:\Users\julio\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.Apresentação.CadastreSe.resources
+C:\Users\julio\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.Form1.resources
+C:\Users\julio\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.Properties.Resources.resources
+C:\Users\julio\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.csproj.GenerateResource.cache
+C:\Users\julio\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.exe
+C:\Users\julio\source\repos\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.pdb
